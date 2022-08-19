@@ -17,3 +17,12 @@
 <h2>Follow me</h2>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-c0c0c2?style=for-the-badge&logo=telegram)](https://t.me/shadowssong)
+
+[![Shad0wsong GitHub stats](https://github-readme-stats.vercel.app/api?username=shad0wsong&hide=stars,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Valuable projects</h2>
+
+[![NetCracker](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=NetCrackerProject)](https://github.com/shad0wsong/NetCrackerProject)
+[![NetCracker](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=NeoflexProject)](https://github.com/shad0wsong/NeoflexProject)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0wsong)
