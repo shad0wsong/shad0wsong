@@ -1,7 +1,7 @@
 ![Header](https://github.com/shad0wsong/shad0wsong/blob/main/assets/Оформление%20YouTube-канала%202560x1440%20пикс(1).jpeg)
 
 ## Hello everyone!
-## I'm Software engineer and great tech fan
+## I'm Software engineer and great tech fan </br>
 
 ##Technologies that I use
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=appveyor)
