@@ -1,4 +1,4 @@
-![Header](https://github.com/shad0wsong/shad0wsong/blob/main/assets/imgonline-com-ua-Resize-do7sSt4xiD.jpg)
+![Header](https://github.com/shad0wsong/shad0wsong/blob/main/assets/imgonline-com-ua-Resize-ROvxSHZwDY1lo.jpg)
 
 <h2>Software engineer and great tech fan</h2>
 
