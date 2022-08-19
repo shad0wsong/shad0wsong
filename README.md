@@ -1,4 +1,4 @@
-![Header](https://github.com/shad0wsong/shad0wsong/blob/main/assets/Оформление%20YouTube-канала%202560x1440%20пикс(1).jpeg)
+![Header](https://github.com/shad0wsong/shad0wsong/blob/main/assets/imgonline-com-ua-Resize-do7sSt4xiD.jpg)
 
 <h2>Software engineer and great tech fan</h2>
 
