@@ -7,6 +7,7 @@
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=appveyor)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-407d41?style=for-the-badge&logo=springboot)
 ![Spring](https://img.shields.io/badge/-Spring-407d41?style=for-the-badge&logo=spring)
+![Spring Cloud](https://img.shields.io/badge/-Spring-407d41?style=for-the-badge&logo=springcloud)
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-407d41?style=for-the-badge&logo=springsecurity)
 
 ![Kafka](https://img.shields.io/badge/-Apache_Kafka-121212?style=for-the-badge&logo=apachekafka)
