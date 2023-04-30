@@ -27,5 +27,6 @@
 [![Microservices](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=Microservices)](https://github.com/shad0wsong/Microservices)
 [![NetCracker](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=NetCrackerProject)](https://github.com/shad0wsong/NetCrackerProject)
 [![NeoFlex](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=NeoflexProject)](https://github.com/shad0wsong/NeoflexProject)
+[![AnimeNetwork](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=SocialNetworkSystem)](https://github.com/shad0wsong/SocialNetworkSystem)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0wsong)
