@@ -25,9 +25,9 @@
 
 <h2>Valuable projects</h2>
 
-[![Microservices](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=Microservices)](https://github.com/shad0wsong/Microservices)
+[![AnimeNetwork](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=SocialNetworkSystem)](https://github.com/shad0wsong/SocialNetworkSystem)
 [![NetCracker](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=NetCrackerProject)](https://github.com/shad0wsong/NetCrackerProject)
 [![NeoFlex](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=NeoflexProject)](https://github.com/shad0wsong/NeoflexProject)
-[![AnimeNetwork](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=SocialNetworkSystem)](https://github.com/shad0wsong/SocialNetworkSystem)
+[![Microservices](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=Microservices)](https://github.com/shad0wsong/Microservices)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0wsong)
