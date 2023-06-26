@@ -19,10 +19,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-c0c0c2?style=for-the-badge&logo=telegram)](https://t.me/shadowssong)
 
-<h2>Stats</h2>
-
-[![Shad0wsong GitHub stats](https://github-readme-stats.vercel.app/api?username=shad0wsong&hide=stars,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>Valuable projects</h2>
 
 [![AnimeNetwork](https://github-readme-stats.vercel.app/api/pin/?username=shad0wsong&repo=SocialNetworkSystem)](https://github.com/shad0wsong/SocialNetworkSystem)
